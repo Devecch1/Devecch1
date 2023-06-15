@@ -25,7 +25,7 @@
 
 <br>
 
-### Códigos aplicados no GithHub
+### Códigos aplicados no GitHub
 
 <br>
 
@@ -44,7 +44,7 @@
 
 <br> 
 
-### Minhas certificações de graduações 🎓:
+### Minhas graduações 🎓:
 
 ### - Sistemas da Informação - FIAP 👨‍💻
 ### - Edificações - FITO 👷‍♂️
