@@ -1,6 +1,6 @@
 
 
-### Olá meu nome é Bruno Devecchi 🤟
+### Olá, meu nome é Bruno Devecchi 🤟
 
 <br>
 
