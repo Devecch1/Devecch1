@@ -19,7 +19,10 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
+<div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Azure-2B579A?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/SQL_Developer-F7DF1E?style=for-the-badge&logo=oracle&logoColor=white" />
 </div>
 
 <br>
