@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devecchi__/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devecch1&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=transparent)
-<!--dracula--!>
+
 
 ### Tecnologias aplicadas e conhecidas
 
@@ -52,3 +52,5 @@
 
 ### - Sistemas da Informação - FIAP 👨‍💻
 ### - Edificações - FITO 👷‍♂️
+
+<!--dracula--!>
