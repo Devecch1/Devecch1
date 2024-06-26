@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunodevecchi/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devecchi__/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devecch1&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devecch1&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=)
 
 
 ### Tecnologias aplicadas e conhecidas
@@ -33,7 +33,7 @@
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devecch1&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devecch1&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=) 
 
  ### Conhecimento Office
 
@@ -54,3 +54,4 @@
 ### - Edificações - FITO 👷‍♂️
 
 <!--dracula--!>
+<!--transparent--!>
