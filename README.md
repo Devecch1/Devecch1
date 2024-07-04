@@ -1,6 +1,6 @@
 
 
-### Olá, meu nome é Bruno Devecchi 🤟
+### Hello, my name is Bruno Devecchi! 🤟
 
 <br>
 
@@ -10,7 +10,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devecch1&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=)
 
 
-### Tecnologias aplicadas e conhecidas
+### Applied Technologies:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -32,14 +32,14 @@
 
 <br>
 
-### Códigos aplicados no GitHub
+### Applied Codes:
 
 <br>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devecch1&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=) 
 
- ### Conhecimento Office
+ ### Applied Office:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
@@ -52,7 +52,7 @@
 
 <br> 
 
-### Minhas graduações 🎓:
+### My graduation 🎓:
 
 ### - Sistemas da Informação - FIAP 👨‍💻
 ### - Edificações - FITO 👷‍♂️
